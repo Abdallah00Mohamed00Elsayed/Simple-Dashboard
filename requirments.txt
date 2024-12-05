@@ -1,4 +1,0 @@
-plotly
-plotly.express
-pandas
-numpy
